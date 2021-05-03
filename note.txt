@@ -1,0 +1,16 @@
+namespace -> class -> method
+
+namespcase ==> used for organization
+class ==> has member(such as method)
+method ==> contains a block of code
+
+blocks in C# are code between curly brackets
+
+create a variable
+    use var if we don't know what the data type is
+    use specific data type if we know what the data type is
+
+use rReadLine to make one line user input
+
+example of string interpelation
+    Console.WriteLine($"You typed: {input}");
