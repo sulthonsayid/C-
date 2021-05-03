@@ -1,0 +1,16 @@
+D:\Belajar Konon\C#\bin\Debug\net5.0\C#.exe
+D:\Belajar Konon\C#\bin\Debug\net5.0\C#.deps.json
+D:\Belajar Konon\C#\bin\Debug\net5.0\C#.runtimeconfig.json
+D:\Belajar Konon\C#\bin\Debug\net5.0\C#.runtimeconfig.dev.json
+D:\Belajar Konon\C#\bin\Debug\net5.0\C#.dll
+D:\Belajar Konon\C#\bin\Debug\net5.0\ref\C#.dll
+D:\Belajar Konon\C#\bin\Debug\net5.0\C#.pdb
+D:\Belajar Konon\C#\obj\Debug\net5.0\C#.csprojAssemblyReference.cache
+D:\Belajar Konon\C#\obj\Debug\net5.0\C#.GeneratedMSBuildEditorConfig.editorconfig
+D:\Belajar Konon\C#\obj\Debug\net5.0\C#.AssemblyInfoInputs.cache
+D:\Belajar Konon\C#\obj\Debug\net5.0\C#.AssemblyInfo.cs
+D:\Belajar Konon\C#\obj\Debug\net5.0\C#.csproj.CoreCompileInputs.cache
+D:\Belajar Konon\C#\obj\Debug\net5.0\C#.dll
+D:\Belajar Konon\C#\obj\Debug\net5.0\ref\C#.dll
+D:\Belajar Konon\C#\obj\Debug\net5.0\C#.pdb
+D:\Belajar Konon\C#\obj\Debug\net5.0\C#.genruntimeconfig.cache
